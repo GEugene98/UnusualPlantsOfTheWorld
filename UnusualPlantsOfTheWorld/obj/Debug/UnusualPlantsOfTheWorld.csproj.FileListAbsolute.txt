@@ -1,0 +1,32 @@
+c:\users\евгений\documents\visual studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe.config
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Form1.resources
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Properties.Resources.resources
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csproj.GenerateResource.Cache
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.About.resources
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe.config
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.exe
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.pdb
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.pdb
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.About.resources
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Form1.resources
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Properties.Resources.resources
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Congratulations.resources
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe.config
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.exe
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.pdb
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.exe
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\bin\Debug\UnusualPlantsOfTheWorld.pdb
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csprojResolveAssemblyReference.cache
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.About.resources
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Congratulations.resources
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Form1.resources
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.Properties.Resources.resources
+G:\Мои работы\UnusualPlantsOfTheWorld\UnusualPlantsOfTheWorld\obj\Debug\UnusualPlantsOfTheWorld.csproj.GenerateResource.Cache
